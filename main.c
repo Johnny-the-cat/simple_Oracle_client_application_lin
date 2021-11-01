@@ -15,6 +15,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <dlfcn.h>
+#include <string.h>
 #include "orafunctions.h"
 
 //Функция для парсинга строки запуска приложения, извлекаем, логин, пароль и строку коннекта к базе
